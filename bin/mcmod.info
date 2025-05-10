@@ -1,0 +1,12 @@
+{
+  "modid": "abasing",
+  "name": "Abasing Utilities",
+  "description": "A utility mod for armor management in PvP",
+  "version": "1.0",
+  "authorList": ["Zamin Ali Bhutto"],
+  "credits": "Abasing",
+  "url": "",
+  "updateUrl": "",
+  "screenshots": [],
+  "dependencies": []
+}
