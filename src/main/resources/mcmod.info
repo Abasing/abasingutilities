@@ -1,9 +1,9 @@
 {
   "modid": "abasing",
   "name": "Abasing Utilities",
-  "description": "A utility mod for armor management in PvP",
+  "description": "A utility mod for Twerion minecraft server",
   "version": "1.0",
-  "authorList": ["Zamin Ali Bhutto"],
+  "authorList": ["Zamin Ali"],
   "credits": "Abasing",
   "url": "",
   "updateUrl": "",
