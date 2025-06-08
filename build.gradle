@@ -29,5 +29,4 @@ repositories {
 }
 
 dependencies {
-    // No extra dependencies for now
 }
