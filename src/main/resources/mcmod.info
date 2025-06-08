@@ -1,12 +1,11 @@
-{
-  "modid": "abasing",
-  "name": "Abasing Utilities",
-  "description": "A utility mod for Twerion minecraft server.",
-  "version": "1.0",
-  "authorList": ["Zamin Ali"],
-  "credits": "Abasing",
-  "url": "",
-  "updateUrl": "",
-  "screenshots": [],
-  "dependencies": []
-}
+[
+  {
+    "modid": "abasingutilities",
+    "name": "Abasing Utilities",
+    "description": "QOL mod for Twerion Minecraft server.",
+    "version": "1.1",
+    "mcversion": "1.8.9",
+    "authorList": ["Zamin"],
+    "credits": "Abasing and Zamin"
+  }
+]
